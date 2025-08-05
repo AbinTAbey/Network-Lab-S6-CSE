@@ -43,3 +43,62 @@ This repository contains all the **KTU S6 CSE Computer Networks Lab** experiment
    ```bash
    git clone https://github.com/AbinAbey/Network-Lab-S6-CSE.git
    cd Network-Lab-S6-CSE
+
+
+2. **Run the codes:**
+
+   * For Python programs:
+
+     ```bash
+     python3 filename.py
+     ```
+   * For C programs:
+
+     ```bash
+     gcc filename.c -o output
+     ./output
+     ```
+
+---
+
+## 🎯 Features
+
+* ✅ Clean and simple code
+* ✅ Well-commented for understanding
+* ✅ Tested in lab environments
+* ✅ Compatible with Linux & Windows
+* ✅ Based on **KTU 2019 Scheme**
+
+---
+
+## 📌 Requirements
+
+* GCC compiler for C programs
+* Python 3.x for Python programs
+* Basic understanding of Computer Networks
+
+---
+
+## 🙌 Contributing
+
+Want to add improvements or fix something? Feel free to create a pull request or raise an issue!
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by [Abin Abey](https://github.com/AbinAbey)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## ⭐️ Show Your Support
+
+If you find this useful, give this repo a ⭐️ and share it with your friends!
+
+```
