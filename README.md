@@ -87,7 +87,7 @@ Want to add improvements or fix something? Feel free to create a pull request or
 
 ## 👨‍💻 Author
 
-Made with ❤️ by [Abin Abey](https://github.com/AbinAbey)
+Made with ❤️ by [Abin T Abey](https://github.com/AbinAbey)
 
 ---
 
@@ -100,5 +100,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## ⭐️ Show Your Support
 
 If you find this useful, give this repo a ⭐️ and share it with your friends!
-
-```
