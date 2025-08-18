@@ -1,11 +1,6 @@
 # Network-Lab-S6-CSE
 # 🌐 Network Lab – S6 CSE
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AbinAbey/Network-Lab-S6-CSE?color=blue&style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/AbinAbey/Network-Lab-S6-CSE?color=yellow&style=flat-square)
-![GitHub forks](https://img.shields.io/github/forks/AbinAbey/Network-Lab-S6-CSE?color=green&style=flat-square)
-![License](https://img.shields.io/github/license/AbinAbey/Network-Lab-S6-CSE?style=flat-square)
-
 > 📚 A collection of Computer Networks Lab programs for 6th Semester CSE (KTU syllabus) 🚀
 
 ---
